@@ -1,0 +1,28 @@
+## .NET Core
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.psess
+*.log
+*.vs/
+*.vsssccc
+*.opendb
+*.dbmdl
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+
+## Visual Studio
+.vs/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
