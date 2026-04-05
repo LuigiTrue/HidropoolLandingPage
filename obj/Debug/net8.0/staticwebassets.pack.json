@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/mnt/A41E89C91E899548/Projects/HidropoolLandingPage/HidropoolLandingPage/obj/Debug/net8.0/scopedcss/projectbundle/HidropoolLandingPage.bundle.scp.css",
+      "PackagePath": "staticwebassets/HidropoolLandingPage.bundle.scp.css"
+    },
+    {
+      "Id": "/mnt/A41E89C91E899548/Projects/HidropoolLandingPage/HidropoolLandingPage/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/mnt/A41E89C91E899548/Projects/HidropoolLandingPage/HidropoolLandingPage/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/mnt/A41E89C91E899548/Projects/HidropoolLandingPage/HidropoolLandingPage/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/mnt/A41E89C91E899548/Projects/HidropoolLandingPage/HidropoolLandingPage/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.HidropoolLandingPage.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.HidropoolLandingPage.props",
+      "PackagePath": "build\\HidropoolLandingPage.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.HidropoolLandingPage.props",
+      "PackagePath": "buildMultiTargeting\\HidropoolLandingPage.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.HidropoolLandingPage.props",
+      "PackagePath": "buildTransitive\\HidropoolLandingPage.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
